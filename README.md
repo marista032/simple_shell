@@ -197,7 +197,7 @@ handle commands with arguments
 - Implement the help built-in
 
 11. File as an input 
-- Your shell should take a file as a command line argument
+- Your shell should take a file as a command line argument.
 
 ## Authors
 * [Patrick Deyoreo](https://github.com/patrickdeyoreo)
